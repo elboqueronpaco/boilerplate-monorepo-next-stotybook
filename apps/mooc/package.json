@@ -1,0 +1,16 @@
+{
+  "name": "@elboqueronpaco/mooc",
+  "version": "0.1.0",
+  
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@elboqueronpaco/design-system": "0.1.0",
+    "next-transpile-modules": "^9.1.0"
+    
+  }
+}
